@@ -20,7 +20,7 @@ Tecnologias Utilizadas
 
 Instalação
 Clone o repositório:
-git clone https://github.com/SEU_USUARIO/simulacao-redes-grafos.git
+git clone https://github.com/mbfpaixao/simulacao-redes-grafos.git
 cd simulacao-redes-grafos
 
 
